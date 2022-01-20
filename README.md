@@ -1,7 +1,3 @@
-# Look to the future with optimism
-## Look to the past with respect
-### Be in the present with your whole self
-
 [Futur, General, Technolo].gist;
 
 
