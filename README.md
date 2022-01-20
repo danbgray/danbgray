@@ -1,4 +1,9 @@
-### Hi there 👋
+# Look to the future with optimism
+## Look to the past with respect
+### Be in the present with vitality
+
+[Futur, General, Technolo] + gist;
+
 
 <!--
 **danbgray/danbgray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
