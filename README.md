@@ -1,4 +1,4 @@
-[Futur, General, Technolo].gist;
+[Futur, General, Technolo, Otom].ist;
 
 <!--
 **danbgray/danbgray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
