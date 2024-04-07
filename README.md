@@ -1,4 +1,4 @@
-[Futur, Scient, Technolo, Otom].ist;
+🚀  Founder / Maker / Optimist / Artist / Physics / Astro 🛠️ Crafting, Building, Exploring.
 
 <!--
 **danbgray/danbgray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
